@@ -3,20 +3,9 @@
 <h1 align="center">Hi 👋, I'm Văn Nam Phúc</h1>
 <h3 align="center">A passionate individual with aspirations to become a Full-Stack Mobile Developer</h3>
 <div align="center">
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 15px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 0px;" /></div>
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 15px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 0px; margin-bottom: 15px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" style="width: 100px; height: 100px; margin-right: 15px; margin-bottom: 0px;" /</div>
 </div>
-
 <br>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
