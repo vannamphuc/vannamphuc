@@ -13,15 +13,9 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [React Native For New](https://spiky-hedgehog-535.notion.site/Th-Vi-n-hay-cho-React-Native-8237e89a63944305b486abd6d79ac4be)
 
-- 💬 Ask me about **React Native**
-
-- 📫 How to reach me **supunnanayakkara01@gmail.com**
-
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
-- ⚡ Fun fact **I think I'm funny**
+- 📫 How to reach me **phucnamvan@gmail.com**
 
 <br>
 <h3 align="left">Connect with me:</h3>
