@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on **DKTech - VietNam**
 
-- 🌱 I’m currently learning **NestJS**
-
-- 👨‍💻 All of my projects are available at [React Native For New](https://spiky-hedgehog-535.notion.site/Th-Vi-n-hay-cho-React-Native-8237e89a63944305b486abd6d79ac4be)
+- 🌱 I’m currently learning **Deepening knowledge in mobile development**
 
 - 📫 How to reach me **phucnamvan@gmail.com**
 
